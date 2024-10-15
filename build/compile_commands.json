@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/Rc/Code/Test/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\a.dir\\src\\a.cpp.obj -c E:\\Rc\\Code\\Test\\src\\a.cpp",
+  "file": "E:/Rc/Code/Test/src/a.cpp",
+  "output": "CMakeFiles/a.dir/src/a.cpp.obj"
+},
+{
+  "directory": "E:/Rc/Code/Test/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c E:\\Rc\\Code\\Test\\src\\main.cpp",
+  "file": "E:/Rc/Code/Test/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+}
+]
